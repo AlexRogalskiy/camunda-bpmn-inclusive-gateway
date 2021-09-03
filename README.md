@@ -14,9 +14,7 @@ A diverging Inclusive Gateway (Inclusive Decision) can be used to create alterna
 
 Use Camunda Modeller to model the process. The process model is composed of five tasks and two inclusive gateways:
 
-![BPMN Inclusive Gateway](https://www.javanibble.com/assets/images/posts/bpmn-inclusive-gateway/bpmn-inclusive-gateway.png){:.lead width="800" height="100" loading="lazy"}
-Example of an inclusive gateway
-{:.figcaption}
+![BPMN Inclusive Gateway](https://www.javanibble.com/assets/images/posts/bpmn-inclusive-gateway/bpmn-inclusive-gateway.png)
 
 * Place Order: Is a `Service Task` linked to a Delegate Expressions with the name `${logger}`.
 * Order Placed: Is an `Inclusive Gateway` with three sequence flows.
