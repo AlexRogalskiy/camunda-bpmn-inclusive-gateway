@@ -70,7 +70,7 @@ $ curl --location --request POST 'http://localhost:8080/engine-rest/process-defi
 ```
 The following is the output to the console after running the above command.
 
-![Console](https:/www.javanibble.com/assets/images/posts/bpmn-inclusive-gateway/console-camunda-bpmn-inclusive-gateway-scenario1.png)
+![Console](https://www.javanibble.com/assets/images/posts/bpmn-inclusive-gateway/console-camunda-bpmn-inclusive-gateway-scenario1.png)
 
 
 **Run the command: Scenario 2**
@@ -98,7 +98,7 @@ $ curl --location --request POST 'http://localhost:8080/engine-rest/process-defi
 ```
 The following is the output to the console after running the above command.
 
-![Console](https:/www.javanibble.com/assets/images/posts/bpmn-inclusive-gateway/console-camunda-bpmn-inclusive-gateway-scenario2.png)
+![Console](https://www.javanibble.com/assets/images/posts/bpmn-inclusive-gateway/console-camunda-bpmn-inclusive-gateway-scenario2.png)
 
 **Run the command: Scenario 3**
 
@@ -125,7 +125,7 @@ $ curl --location --request POST 'http://localhost:8080/engine-rest/process-defi
 ```
 The following is the output to the console after running the above command.
 
-![Console](https:/www.javanibble.com/assets/images/posts/bpmn-inclusive-gateway/console-camunda-bpmn-inclusive-gateway-scenario3.png)
+![Console](https://www.javanibble.com/assets/images/posts/bpmn-inclusive-gateway/console-camunda-bpmn-inclusive-gateway-scenario3.png)
 
 **Run the command: Scenario 4**
 
@@ -150,7 +150,7 @@ $ curl --location --request POST 'http://localhost:8080/engine-rest/process-defi
 ```
 The following is the output to the console after running the above command.
 
-![Console](https:/www.javanibble.com/assets/images/posts/bpmn-inclusive-gateway/console-camunda-bpmn-inclusive-gateway-scenario4.png)
+![Console](https://www.javanibble.com/assets/images/posts/bpmn-inclusive-gateway/console-camunda-bpmn-inclusive-gateway-scenario4.png)
 
 
 ## View Camunda Admin Console
